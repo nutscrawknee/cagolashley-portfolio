@@ -1,0 +1,121 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 24, 2023, 5:31:01 PM
+    Author     : Odyl
+*/
+
+body {
+    
+/*    background-image: url("../images/ash_5.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;    */
+    background-color: #EEE7CE;
+}
+
+#body-content {
+    align-items: center;
+    padding: 0 10%;
+}
+
+#page-body {
+    color: darkolivegreen;
+    max-width: 600px;
+    font-size: 17px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 39px;
+    color: #daa520;
+    font-family: tahoma;
+}
+
+#desc1 {
+    color: darkolivegreen;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#desc2 {
+    font-family: tahoma;
+    color: #daa520;
+}
+
+#quote {
+    font-style: italic;
+    font-size: 22px;
+}
+
+#works {
+    font-family: tahoma;
+    font-size: 18px;
+    font-weight: 550;
+}
+
+#work-links {
+    font-size: 20px;
+    font-family: tahoma;
+}
+
+#work-links a {
+    color: darkolivegreen;
+}
+
+#work-links a:hover {
+    color: #daa520;
+}
+
+#socmed {
+    font-family: tahoma;
+    font-size: 18px;
+    font-weight: 550;
+}
+
+
+#contact-icons {
+    position: absolute;
+    /*bottom: 70px;*/
+    width: 170px;
+    padding: 0 10%;
+    font-size: 30px;
+} 
+
+#contact-icons a {
+    display: inline-flex;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    color: darkolivegreen;
+    text-decoration: none;
+}
+
+#contact-icons a:hover {
+    color: #daa520;
+}
+
+
+img {
+    border-radius: 5%;
+    float: right;
+    width: 37%;
+    size: 100%;
+    padding: 0px 0px 0px;
+}
+
+/*@media only screen and (min-width: 360px) {
+    img {
+        display: none;
+    }
+ 
+    #quote {
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+    }
+    
+}*/
